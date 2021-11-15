@@ -1,0 +1,173 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1, h2, h3, h4,h5 {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 1.2rem;
+}
+
+hr {
+  background-color: #fff;
+  border-style: none;
+}
+
+p {
+  color: #515E63;
+  font-size: 1.2rem;
+  font-family: "Ubuntu";
+}
+
+/* index section */
+.km-logo {
+  width: 250px;
+}
+.radius{
+  width: 20%;
+  border-radius: 80%;
+float: left;
+margin: 10px;
+
+}
+.profile{
+line-height: 2;
+padding: 2%;
+}
+
+.heading {
+  color: #fff;
+  font-size: 4rem;
+  text-align: left;
+  padding-top: 15%;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+  font-family: "Montserrat";
+  font-weight: lighter;
+}
+
+.title {
+  background-color: #035397;
+  padding: 2%;
+
+}
+
+.container-fluid {
+  padding: 0 3%;
+  background-color: #035397;
+}
+
+.team-pic {
+  float: right;
+  width: 50%;
+  margin-left: 1%
+}
+
+.about {
+  padding: 2%;
+  text-align: left;
+  line-height: 2;
+  text-transform: full-width;
+  text-indent: 20px;
+}
+
+/*testimonials section*/
+#testimonials {
+  text-align: center;
+  background-color: #035397;
+  color: #fff;
+  padding: 2%;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* footer */
+#footer {
+  padding: 2%;
+  text-align: center;
+  color: #515E63;
+  font-size: 1rem;
+  font-family: "Ubuntu";
+}
+
+.icon {
+  color: #035397;
+  margin: 2% 1% 2%;
+}
+
+.icon:hover {
+  color: #113CFC;
+}
+
+
+/* players */
+.heading-p {
+  color: #fff;
+  font-size: 3rem;
+  text-align: center;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+.heading-fp {
+  color: #fff;
+  font-size: 2.5rem;
+  text-align: center;
+  font-family: "Montserrat";
+  font-weight: bold;
+  background-color: #035397;
+  padding: 2%;
+}
+
+.new {
+  padding: 2%;
+  line-height: 1.5;
+  text-align: left;
+  font-family: "Montserrat";
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+a {
+  color: #2C394B;
+}
+
+a:hover {
+  color: #082032;
+}
+
+.old {
+  color: #082032;
+  padding: 2%;
+  line-height: 1.5;
+  text-align: left;
+  font-family: "Montserrat";
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.white-section {
+  padding: 2%;
+}
+.icon-a{
+  color: #fff;
+}
+
+.table {
+  border-radius: 20px;
+}
